@@ -1,6 +1,5 @@
 import random
 
-
 def createOutput(quote, prevOutput, guess):
     output = ""
     for i in range(len(quote)):
